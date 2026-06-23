@@ -1,0 +1,9 @@
+node_modules
+.next
+.env
+*.db
+*.db-journal
+/test-results
+/playwright-report
+/playwright/.cache
+next-env.d.ts
